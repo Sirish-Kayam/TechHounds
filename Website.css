@@ -1,0 +1,15 @@
+.test{
+	color:#0263ff;
+	font-size:40px
+}
+.l{
+	color:#FF0000;
+}
+.myself{
+	color:#87ceeb;
+	border:1px dashed red;
+	position:absolute;
+	padding-right:30px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
